@@ -1,3 +1,10 @@
+
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/golang/live/logo.png" alt="Project logo"></a>
+</p]>
+<h3 align="center">GOLANG REST API</h3>
+
 # Movie CRUD without actual DB have used  struct and slices for implementation used mux for routes
 
 ## Dependencies  
