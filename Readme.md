@@ -1,4 +1,4 @@
-CRUD without actual DB used struct and slices for implementation used mux for routes
+# Movie CRUD without actual DB have used  struct and slices for implementation used mux for routes
 
 ## Dependencies  
 go get github.com/gorilla/mux
